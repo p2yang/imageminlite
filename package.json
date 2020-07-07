@@ -1,0 +1,14 @@
+{
+  "name": "imageminlite",
+  "version": "1.0.0",
+  "main": "cli.js",
+  "license": "MIT",
+  "bin": {
+    "imageminlite": "cli.js"
+  },
+  "dependencies": {
+    "imagemin": "^7.0.1",
+    "imagemin-pngquant": "^9.0.0",
+    "yargs": "^15.4.0"
+  }
+}
